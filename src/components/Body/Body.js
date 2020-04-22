@@ -4,7 +4,7 @@ import Projects from '../Projects/Projects';
 
 function Body() {
   return (
-    <div className="body defaultPadding">
+    <div className="body">
       <Projects />
     </div>
   );

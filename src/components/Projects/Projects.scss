@@ -1,7 +1,18 @@
+@import 'src/index.scss';
+
+.project{
+  display: flex;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  width: 440px;
+  margin-right: 40px;
+}
+
 .projects{
-  background-color: blue;
-  display: inline-block;
-  height: 100%;
+  margin-top: 60px;
+  padding: 10px 20px;
+  height: calc(100% - 80px);
   vertical-align: top;
-  margin: 5px 20px;
+  display: flex;
+  flex-direction: row;
 }

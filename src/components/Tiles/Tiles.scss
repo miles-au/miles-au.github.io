@@ -1,0 +1,45 @@
+@import 'src/index.scss';
+
+.tile{
+  margin: 5px;
+  display: inline-block;
+  position: relative;
+  background-size: cover;
+  background-position: center;
+  -webkit-transition: opacity 0.3s ease-in-out;
+  -moz-transition: opacity 0.3s ease-in-out;
+  -ms-transition: opacity 0.3s ease-in-out;
+  -o-transition: opacity 0.3s ease-in-out;
+  transition: opacity 0.3s ease-in-out;
+  &:hover{
+    opacity: 0.5;
+  }
+}
+
+.span-1{
+  width: 100px;
+  height: 100px;
+}
+
+.span-2{
+  width: 210px;
+  height: 100px;
+}
+
+.span-3{
+  width: 320px;
+  height: 100px;
+}
+
+.span-4{
+  width: 440px;
+  height: 100px;
+}
+
+.tile-label{
+  position: absolute;
+  bottom: -1px;
+  left: -1px;
+  padding: 0px 5px;
+  margin: 0px;
+}
