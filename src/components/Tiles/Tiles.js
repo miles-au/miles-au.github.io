@@ -10,14 +10,14 @@ class Tile extends React.Component{
     this.label= props.label || '';
     this.centerText= props.centerText;
     this.bgURL = props.bgURL || '';
+    this.link = props.link || '#';
   }
 
   render(){
-
     return (
-      <div className={`tile span-${this.span.toString()} ${this.backgroundClass}`} style={{backgroundImage: `url(${this.bgURL})`}}>
+      <a href={this.link} target={this.link == '#' ? '' : '_blank'} className={`tile span-${this.span.toString()} ${this.backgroundClass}`} style={{backgroundImage: `url(${this.bgURL})`}}>
         <p className="tile-label brandwhite-bg">{this.label}</p>
-      </div>
+      </a>
     )
   }
 }
