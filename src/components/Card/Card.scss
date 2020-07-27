@@ -1,0 +1,41 @@
+@import 'src/index.scss';
+
+.card{
+    padding: 20px 0px;
+    border-bottom: 1px solid $BrandLightGrey;
+
+    .description{
+        margin: 20px 0px 0px 0px;
+    }
+    .media{
+        overflow-x: scroll;
+        overflow-y: hidden;
+        white-space: nowrap;
+        max-height: 75vh;
+
+        img{
+            display: inline-block;
+            max-height: 75vh;
+            padding-right: 10px;
+        }
+    }
+    .tools{
+        h3{
+            display: inline-block;
+            margin: 0px 10px 0px 0px;
+        }
+        p{
+            display: inline-block;
+        }
+    }
+    .links{
+        h3{
+            display: inline-block;
+            margin: 0px 10px 0px 0px;
+        }
+        a{
+            padding: 0px 5px;
+            display: inline-block;
+        }
+    }
+}

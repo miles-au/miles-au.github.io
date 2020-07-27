@@ -11,7 +11,6 @@
     "react-dom": "^16.13.1",
     "react-icons": "^3.10.0",
     "react-scripts": "3.4.1",
-    "react-scroll-horizontal": "^1.6.4",
     "tachyons": "^4.11.1"
   },
   "scripts": {
@@ -19,7 +18,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy": "npm run build&&gh-pages -d build"
+    "deploy": "npm run build&&gh-pages -b master -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -36,7 +35,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://github.com/miles-au/miles-au.github.io.git",
+  "homepage": "https://miles-au.github.io",
   "devDependencies": {
     "gh-pages": "^2.2.0"
   }
