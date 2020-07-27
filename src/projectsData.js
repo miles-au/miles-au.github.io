@@ -94,7 +94,9 @@ const projectData = [
             }
         ],
         "media": [
-            "https://github.com/miles-au/ARLines/blob/master/gifs/demo.gif?raw=true"
+            "https://github.com/miles-au/miles-au.github.io/blob/develop/public/images/ar_lines/IMG_6558.PNG?raw=true",
+            "https://github.com/miles-au/miles-au.github.io/blob/develop/public/images/ar_lines/IMG_6559.PNG?raw=true",
+            "https://github.com/miles-au/miles-au.github.io/blob/develop/public/images/ar_lines/IMG_6560.PNG?raw=true"
         ]
     },
     {
@@ -136,7 +138,8 @@ const projectData = [
             }
         ],
         "media": [
-            "https://github.com/miles-au/miles-au.github.io/blob/develop/public/images/roomspace/roomspace.gif?raw=true"
+            "https://github.com/miles-au/miles-au.github.io/blob/develop/public/images/roomspace/IMG_6561.PNG?raw=true",
+            "https://github.com/miles-au/miles-au.github.io/blob/develop/public/images/roomspace/IMG_6562.PNG?raw=true"
         ]
     },
     {
