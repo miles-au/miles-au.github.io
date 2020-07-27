@@ -22,7 +22,7 @@ function Card({ data }) {
                 <h3>Links:</h3>
                 {
                     data.links?.map((link) => {
-                        return <a href={link.url}>{link.title}</a>
+                        return <a href={link.url} target="_blank">{link.title}</a>
                     })
                 }
             </div>

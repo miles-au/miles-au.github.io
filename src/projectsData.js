@@ -32,6 +32,11 @@ const projectData = [
                 "title": "YouTube",
                 "url": "https://www.youtube.com/watch?v=dHZ8pH-B0tU&list=PLUQm-VQnY5s3NSJ9fbZ7EEKgkBDZSwEZO&index=2&t=0s"
             }
+        ],
+        "media": [
+            "https://github.com/miles-au/miles-au.github.io/blob/develop/public/images/mitered_edge_tool/IMG_6553.PNG?raw=true",
+            "https://github.com/miles-au/miles-au.github.io/blob/develop/public/images/mitered_edge_tool/IMG_6554.PNG?raw=true",
+            "https://github.com/miles-au/miles-au.github.io/blob/develop/public/images/mitered_edge_tool/IMG_6555.PNG?raw=true"
         ]
     },
     {
@@ -48,6 +53,9 @@ const projectData = [
                 "title": "YouTube",
                 "url": "https://www.youtube.com/watch?v=VSyiTi5ovNA&list=PLUQm-VQnY5s3NSJ9fbZ7EEKgkBDZSwEZO&index=3&t=0s"
             }
+        ],
+        "media": [
+            "https://github.com/miles-au/miles-au.github.io/blob/develop/public/images/roomspace/roomspace.gif?raw=true"
         ]
     },
     {
@@ -142,6 +150,11 @@ const projectData = [
                 "title": "Web Page",
                 "url": "https://milesau.com/show_my_socials/"
             }
+        ],
+        "media": [
+            "https://github.com/miles-au/miles-au.github.io/blob/develop/public/images/show_my_socials/show_my_socials.png?raw=true",
+            "https://github.com/miles-au/miles-au.github.io/blob/develop/public/images/show_my_socials/printout.png?raw=true",
+            "https://github.com/miles-au/miles-au.github.io/blob/develop/public/images/show_my_socials/tabletop.jpg?raw=true"
         ]
     },
     {
@@ -159,6 +172,9 @@ const projectData = [
                 "title": "GitHub Repo",
                 "url": "https://github.com/miles-au/promoposts"
             }
+        ],
+        "media": [
+            "https://github.com/miles-au/miles-au.github.io/blob/develop/public/images/promo_posts/promo_posts.png?raw=true"
         ]
     }
 ]
