@@ -12,3 +12,21 @@ header{
     letter-spacing: 3px;
   }
 }
+
+.footerBuffer{
+  height: 50px;
+}
+
+footer{
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  padding: 10px 20px;
+  height: 40px;
+  width: calc(100vw - 40px);
+  text-align: right;
+  a{
+    margin-left: 15px;
+  }
+}

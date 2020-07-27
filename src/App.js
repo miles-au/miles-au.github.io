@@ -11,6 +11,12 @@ function App() {
         <h1>Miles Au</h1>
       </header>
       <Body />
+      <div className="footerBuffer"></div>
+      <footer className="brandlightgrey-bg">
+        <a href="mailto:miles.d.au@gmail.com">Email</a>
+        <a href="https://ca.linkedin.com/in/milesau">LinkedIn</a>
+        <a href="https://github.com/miles-au">GitHub</a>
+      </footer>
     </div>
   );
 }

@@ -1,64 +1,5 @@
 const projectData = [
     {
-        "title": "ARLines",
-        "description": "A Swift package that is a shortcut to drawing various types of lines in ARKit",
-        "tools": [
-            "Swift",
-            "ARKit"
-        ],
-        "links": [
-            {
-                "title": "GitHub Repo",
-                "url": "https://github.com/miles-au/ARLines"
-            }
-        ],
-        "media": [
-            "https://github.com/miles-au/ARLines/blob/master/gifs/demo.gif?raw=true"
-        ]
-    },
-    {
-        "title": "Mitered Edge Tool",
-        "description": "Augmented Reality assistant to draw the diagonal fold for a mitered edge.",
-        "tools": [
-            "Swift",
-            "ARKit"
-        ],
-        "links": [
-            {
-                "title": "GitHub Repo",
-                "url": "https://github.com/miles-au/StitchBuddy"
-            },
-            {
-                "title": "YouTube",
-                "url": "https://www.youtube.com/watch?v=dHZ8pH-B0tU&list=PLUQm-VQnY5s3NSJ9fbZ7EEKgkBDZSwEZO&index=2&t=0s"
-            }
-        ],
-        "media": [
-            "https://github.com/miles-au/miles-au.github.io/blob/develop/public/images/mitered_edge_tool/IMG_6553.PNG?raw=true",
-            "https://github.com/miles-au/miles-au.github.io/blob/develop/public/images/mitered_edge_tool/IMG_6554.PNG?raw=true",
-            "https://github.com/miles-au/miles-au.github.io/blob/develop/public/images/mitered_edge_tool/IMG_6555.PNG?raw=true"
-        ]
-    },
-    {
-        "title": "Roomspace",
-        "description": "Roomspace is a mobile app that uses Augmented Reality to help realtors virtually stage their empty rooms.",
-        "tools": [
-            "Swift",
-            "Firebase",
-            "ARKit",
-            "Blender"
-        ],
-        "links": [
-            {
-                "title": "YouTube",
-                "url": "https://www.youtube.com/watch?v=VSyiTi5ovNA&list=PLUQm-VQnY5s3NSJ9fbZ7EEKgkBDZSwEZO&index=3&t=0s"
-            }
-        ],
-        "media": [
-            "https://github.com/miles-au/miles-au.github.io/blob/develop/public/images/roomspace/roomspace.gif?raw=true"
-        ]
-    },
-    {
         "title": "Sellar",
         "description": "Listing multiple pieces of clothing to online marketplaces or e-commerce channels can be time consuming and tedious. Sellar aims to help get your clothing online faster.",
         "tools": [
@@ -137,6 +78,65 @@ const projectData = [
             "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/50/24/3d/50243da5-58a9-eaa2-0fa8-700fe4f40255/pr_source.jpg/600x0w.jpg",
             "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/84/8e/e1/848ee170-9e94-2206-a133-6b2a59491439/pr_source.jpg/600x0w.jpg",
             "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/bd/a0/d1/bda0d105-8a92-384e-cf2e-1a63e9a583cb/pr_source.jpg/600x0w.jpg"
+        ]
+    },
+    {
+        "title": "ARLines",
+        "description": "A Swift package that is a shortcut to drawing various types of lines in ARKit",
+        "tools": [
+            "Swift",
+            "ARKit"
+        ],
+        "links": [
+            {
+                "title": "GitHub Repo",
+                "url": "https://github.com/miles-au/ARLines"
+            }
+        ],
+        "media": [
+            "https://github.com/miles-au/ARLines/blob/master/gifs/demo.gif?raw=true"
+        ]
+    },
+    {
+        "title": "Mitered Edge Tool",
+        "description": "Augmented Reality assistant to draw the diagonal fold for a mitered edge.",
+        "tools": [
+            "Swift",
+            "ARKit"
+        ],
+        "links": [
+            {
+                "title": "GitHub Repo",
+                "url": "https://github.com/miles-au/StitchBuddy"
+            },
+            {
+                "title": "YouTube",
+                "url": "https://www.youtube.com/watch?v=dHZ8pH-B0tU&list=PLUQm-VQnY5s3NSJ9fbZ7EEKgkBDZSwEZO&index=2&t=0s"
+            }
+        ],
+        "media": [
+            "https://github.com/miles-au/miles-au.github.io/blob/develop/public/images/mitered_edge_tool/IMG_6553.PNG?raw=true",
+            "https://github.com/miles-au/miles-au.github.io/blob/develop/public/images/mitered_edge_tool/IMG_6554.PNG?raw=true",
+            "https://github.com/miles-au/miles-au.github.io/blob/develop/public/images/mitered_edge_tool/IMG_6555.PNG?raw=true"
+        ]
+    },
+    {
+        "title": "Roomspace",
+        "description": "Roomspace is a mobile app that uses Augmented Reality to help realtors virtually stage their empty rooms.",
+        "tools": [
+            "Swift",
+            "Firebase",
+            "ARKit",
+            "Blender"
+        ],
+        "links": [
+            {
+                "title": "YouTube",
+                "url": "https://www.youtube.com/watch?v=VSyiTi5ovNA&list=PLUQm-VQnY5s3NSJ9fbZ7EEKgkBDZSwEZO&index=3&t=0s"
+            }
+        ],
+        "media": [
+            "https://github.com/miles-au/miles-au.github.io/blob/develop/public/images/roomspace/roomspace.gif?raw=true"
         ]
     },
     {
