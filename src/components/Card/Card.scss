@@ -14,8 +14,10 @@
         max-height: 75vh;
 
         img{
+            vertical-align: top;
             display: inline-block;
             max-height: 75vh;
+            max-width: calc(100vw - 40px);
             padding-right: 10px;
         }
     }
