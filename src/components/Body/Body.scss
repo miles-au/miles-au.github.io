@@ -1,2 +1,25 @@
 @import 'src/index.scss';
 
+.body{
+  padding-top: 70px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.callouts{
+  padding: 10px 0px;
+
+  .callout{
+    background-color: $BrandLightBlue;
+    border-radius: 25px;
+    margin: 10px 0px;
+    padding: 15px;
+    display: block;
+  
+    img{
+      padding-right: 10px;
+      width: 40px;
+      vertical-align: middle;
+    }
+  }
+}
